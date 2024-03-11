@@ -1,5 +1,5 @@
-#include "pattern/Momento/History.h"
-#include "pattern/Momento/Editor.h"
+#include "pattern/Memento/History.h"
+#include "pattern/Memento/Editor.h"
 
 #include <ctime>
 #include <iostream>
